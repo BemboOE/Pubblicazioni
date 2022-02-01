@@ -1,0 +1,96 @@
+%!Adobe-FontList 1.19
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cormorant-Italic
+FamilyName:Cormorant
+StyleName:Italic
+MenuName:Cormorant
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Cormorant Italic
+WritingScript:Roman
+OutlineFileName:\Cormorant-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:304568
+FileModTime:1465948800
+NameArray:0,Win,1,Cormorant
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cormorant-Light
+FamilyName:Cormorant
+StyleName:Light
+MenuName:Cormorant Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Cormorant Light
+WritingScript:Roman
+OutlineFileName:\Cormorant-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:404348
+FileModTime:1465948800
+NameArray:0,Win,1,Cormorant Light
+NameArray:0,Win,16,Cormorant
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cormorant-Regular
+FamilyName:Cormorant
+StyleName:Regular
+MenuName:Cormorant
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Cormorant Regular
+WritingScript:Roman
+OutlineFileName:\Cormorant-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:406512
+FileModTime:1465948800
+NameArray:0,Win,1,Cormorant
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1589326001
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
