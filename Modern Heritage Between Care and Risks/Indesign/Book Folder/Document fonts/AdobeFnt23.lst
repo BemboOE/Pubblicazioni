@@ -1,0 +1,255 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/AdobeFnt23.lst
+FileLength:6618
+FileModTime:693484598
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Lekton-Bembo-Bold
+FamilyName:Lekton-Bembo
+StyleName:Bold
+MenuName:Lekton-Bembo
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Lekton-Bembo Bold
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/LektonBembo-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:139784
+FileModTime:690379765
+NameArray:0,Mac,4,Lekton-Bembo Bold
+NameArray:0,Win,1,Lekton-Bembo
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:611011601
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Spectral-Bold
+FamilyName:Spectral
+StyleName:Bold
+MenuName:Spectral
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Spectral Bold
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/Spectral-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:277548
+FileModTime:518911200
+NameArray:0,Win,1,Spectral
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Spectral-ExtraBold
+FamilyName:Spectral
+StyleName:ExtraBold
+MenuName:Spectral ExtraBold
+StyleBits:0
+WeightClass:800
+WidthClass:5
+AngleClass:0
+FullName:Spectral ExtraBold
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/Spectral-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:263596
+FileModTime:518911200
+NameArray:0,Win,1,Spectral ExtraBold
+NameArray:0,Win,16,Spectral
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Spectral-Italic
+FamilyName:Spectral
+StyleName:Italic
+MenuName:Spectral
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Spectral Italic
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/Spectral-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:272728
+FileModTime:518911200
+NameArray:0,Win,1,Spectral
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Spectral-Regular
+FamilyName:Spectral
+StyleName:Regular
+MenuName:Spectral
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Spectral Regular
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/Spectral-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:263144
+FileModTime:518911200
+NameArray:0,Win,1,Spectral
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TipomundiExtBold60RDF-0wd500wt
+FamilyName:TipomundiExtBold60RDF
+StyleName:0 wd 500 wt
+MenuName:TipomundiExtBold60RDF
+StyleBits:0
+WeightClass:500
+WidthClass:3
+AngleClass:0
+FullName:TipomundiExtBold60RDF 0 wd 500 wt
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/TipomundiExtBold60RDF 4.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:18476
+FileModTime:559150252
+NameArray:0,Mac,4,TipomundiExtBold60RDF 0 wd 500 wt
+NameArray:0,Win,1,TipomundiExtBold60RDF
+NameArray:0,Win,16,TipomundiExtBold60RDF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TipomundiExtBold60RDF-500wd500wt
+FamilyName:TipomundiExtBold60RDF
+StyleName:500 wd 500 wt
+MenuName:TipomundiExtBold60RDF
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:TipomundiExtBold60RDF 500 wd 500 wt
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/TipomundiExtBold60RDF 5.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:19028
+FileModTime:559150256
+NameArray:0,Mac,4,TipomundiExtBold60RDF 500 wd 500 wt
+NameArray:0,Win,1,TipomundiExtBold60RDF
+NameArray:0,Win,16,TipomundiExtBold60RDF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TipomundiExtBold60RDF-500wd1000wt
+FamilyName:TipomundiExtBold60RDF
+StyleName:500 wd 1000 wt
+MenuName:TipomundiExtBold60RDF
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:TipomundiExtBold60RDF 500 wd 1000 wt
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/TipomundiExtBold60RDF 6.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:19016
+FileModTime:559150258
+NameArray:0,Mac,4,TipomundiExtBold60RDF 500 wd 1000 wt
+NameArray:0,Win,1,TipomundiExtBold60RDF
+NameArray:0,Win,16,TipomundiExtBold60RDF
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TipomundiExtBold60RDF-1000wd0wt
+FamilyName:TipomundiExtBold60RDF
+StyleName:1000 wd 0 wt
+MenuName:TipomundiExtBold60RDF
+StyleBits:0
+WeightClass:100
+WidthClass:7
+AngleClass:0
+FullName:TipomundiExtBold60RDF 1000 wd 0 wt
+WritingScript:Roman
+OutlineFileName:/Users/federico/CloudStation/Federico/_ Lavori/Bembo OE/01 Pubblicazioni/Modern Heritage Between Care and Risks/Book 1 Folder/Document fonts/TipomundiExtBold60RDF 7.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:18564
+FileModTime:559150261
+NameArray:0,Mac,4,TipomundiExtBold60RDF 1000 wd 0 wt
+NameArray:0,Win,1,TipomundiExtBold60RDF
+NameArray:0,Win,16,TipomundiExtBold60RDF
+%EndFont
+
